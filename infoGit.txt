@@ -1,0 +1,6 @@
+This text file contains basic git commands
+
+Adding second line to the file.
+
+Adding third line.
+
