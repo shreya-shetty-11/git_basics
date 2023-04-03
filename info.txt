@@ -2,3 +2,5 @@ This is a text file
 
 
 Updated the info.txt file 
+
+updating after changing the branch settings
