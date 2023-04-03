@@ -4,3 +4,4 @@ Adding second line to the file.
 
 Adding third line.
 
+adding line to check change in protected branch settings
